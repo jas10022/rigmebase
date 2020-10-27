@@ -1,6 +1,6 @@
 ## RigMe - 2d image to virtual avatar conversion pipeline
 
-![demo](https://github.com/tonightio/rigmebase/blob/main/demo.jpg)
+![demo](https://raw.githubusercontent.com/tonightio/rigmebase/gh-pages/demo.jpg)
 
 ### Markdown
 
